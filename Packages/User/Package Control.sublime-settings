@@ -2,15 +2,10 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"BracketHighlighter",
-		"CTags",
+		"Emmet",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
@@ -19,6 +14,6 @@
 		"SublimeLinter-contrib-clang",
 		"SublimeLinter-cppcheck",
 		"Terminal",
-		"YcmdCompletion"
+		"Theme - Spacegray"
 	]
 }
