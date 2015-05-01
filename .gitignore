@@ -1,2 +1,4 @@
 *.txt
 Local/*
+Backup/
+Cache/
