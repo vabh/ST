@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"BracketHighlighter",
 		"Emmet",
 		"Package Control",
@@ -14,6 +15,7 @@
 		"SublimeLinter-contrib-clang",
 		"SublimeLinter-cppcheck",
 		"Terminal",
+		"Theme - Soda",
 		"Theme - Spacegray"
 	]
 }

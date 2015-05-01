@@ -1,12 +1,22 @@
 {
 	"folder_history":
 	[
+		"/Users/anuvabh/Desktop/class/tp5_lightfield",
+		"/Users/anuvabh/Desktop/class/tp2_materials",
+		"/Users/anuvabh/code_test/python/data",
+		"/Users/anuvabh/Desktop/release-v1",
+		"/Users/anuvabh/code_test/python/scripts",
+		"/Users/anuvabh/Desktop/class/tp3_textures",
+		"/Users/anuvabh/Desktop/class/tp4_shadows",
+		"/Users/anuvabh/Downloads/Archive 2",
 		"/Users/anuvabh/code_test/python/tweets",
+		"/Users/anuvabh/Desktop/class/Archive",
+		"/Users/anuvabh/code_test/opencv",
+		"/Users/anuvabh/Desktop/class/tp0",
 		"/Users/anuvabh/Desktop/graphics/hw1-osx-10.9",
+		"/Users/anuvabh/Desktop/TP_test 2",
 		"/Users/anuvabh/Desktop/image",
 		"/Users/anuvabh/Desktop/hw0-osx-10.9",
-		"/Users/anuvabh/code_test/python/scripts",
-		"/Users/anuvabh/Desktop/TP_test 2",
 		"/Users/anuvabh/code_test/python/tweets/pidaysearch1",
 		"/Users/anuvabh/Desktop/matrixModelView_mac",
 		"/Users/anuvabh/code_test/Tweet-Classifier-Interface",
@@ -15,7 +25,7 @@
 		"/Users/anuvabh/code_test/losfootballers"
 	],
 	"last_version": 3083,
-	"last_window_id": 95,
+	"last_window_id": 158,
 	"log_indexing": false,
 	"settings":
 	{
@@ -27,12 +37,196 @@
 				"selected_items":
 				[
 					[
-						"t",
-						"t_id"
+						"load",
+						"loadTexture"
+					],
+					[
+						"de",
+						"degree〔variable〕"
+					],
+					[
+						"en",
+						"encode('utf8"
+					],
+					[
+						"e",
+						"encode('utf8"
+					],
+					[
+						"has",
+						"hashtags〔variable〕"
+					],
+					[
+						"so",
+						"sorted_list〔variable〕"
+					],
+					[
+						"fre",
+						"frequency_list〔variable〕"
+					],
+					[
+						"ta",
+						"tagI〔variable〕"
+					],
+					[
+						"fr",
+						"frequency_list〔variable〕"
+					],
+					[
+						"no",
+						"nodes〔function〕"
+					],
+					[
+						"add",
+						"add_edge〔function〕"
+					],
+					[
+						"ad",
+						"add_node〔function〕"
+					],
+					[
+						"a",
+						"add_node〔function〕"
+					],
+					[
+						"hashtag",
+						"hashtag_list"
+					],
+					[
+						"bl",
+						"block_size"
+					],
+					[
+						"al",
+						"alpha"
+					],
+					[
+						"mos",
+						"mouseY"
+					],
+					[
+						"mous",
+						"mouseX"
+					],
+					[
+						"se",
+						"seeds"
+					],
+					[
+						"va",
+						"valid_move"
+					],
+					[
+						"pr",
+						"print_board"
+					],
+					[
+						"us",
+						"user_move"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"com",
+						"computer_play"
+					],
+					[
+						"c",
+						"computer_play"
 					],
 					[
 						"re",
-						"retweeted_status"
+						"return"
+					],
+					[
+						"colu",
+						"colummn_to_play_max"
+					],
+					[
+						"compu",
+						"computer_play"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"glB",
+						"glBindBuffer"
+					],
+					[
+						"uv",
+						"uvbuffer"
+					],
+					[
+						"g_n",
+						"g_NumIndices"
+					],
+					[
+						"mu",
+						"mulVector"
+					],
+					[
+						"lig",
+						"light_rotate"
+					],
+					[
+						"ca",
+						"cartoon_modeID"
+					],
+					[
+						"car",
+						"cartoon_mode"
+					],
+					[
+						"spe",
+						"spec_index"
+					],
+					[
+						"sp",
+						"spec_index"
+					],
+					[
+						"specu",
+						"specularE"
+					],
+					[
+						"rot",
+						"rotate_light"
+					],
+					[
+						"trans",
+						"transpose"
+					],
+					[
+						"light",
+						"lightDirection"
+					],
+					[
+						"the",
+						"theta"
+					],
+					[
+						"tr",
+						"translationView"
+					],
+					[
+						"tra",
+						"transpose"
+					],
+					[
+						"view",
+						"view_distance"
+					],
+					[
+						"vi",
+						"view_distance"
+					],
+					[
+						"t",
+						"t_id"
 					],
 					[
 						"twe",
@@ -41,10 +235,6 @@
 					[
 						"in",
 						"in_file〔variable〕"
-					],
-					[
-						"so",
-						"sorted_x〔variable〕"
 					],
 					[
 						"m",
@@ -57,10 +247,6 @@
 					[
 						"cl",
 						"close"
-					],
-					[
-						"pr",
-						"pprint〔function〕"
 					],
 					[
 						"Get",
@@ -119,10 +305,6 @@
 						"get('text"
 					],
 					[
-						"c",
-						"created_at"
-					],
-					[
 						"w",
 						"write"
 					],
@@ -151,20 +333,12 @@
 						"nTBox"
 					],
 					[
-						"tra",
-						"trackBox"
-					],
-					[
 						"ge",
 						"get"
 					],
 					[
 						"sele",
 						"selectObject"
-					],
-					[
-						"fr",
-						"frameCopy"
 					],
 					[
 						"face",
@@ -191,10 +365,6 @@
 						"streamSample〔variable〕"
 					],
 					[
-						"de",
-						"dec_bin"
-					],
-					[
 						"b",
 						"b"
 					],
@@ -219,14 +389,6 @@
 						"number_of_nodes  (function)"
 					],
 					[
-						"add",
-						"add_edge  (function)"
-					],
-					[
-						"ad",
-						"add_node  (function)"
-					],
-					[
 						"na",
 						"name"
 					],
@@ -237,10 +399,6 @@
 					[
 						"sh",
 						"ships"
-					],
-					[
-						"sp",
-						"speedY_"
 					],
 					[
 						"spee",
@@ -257,10 +415,6 @@
 					[
 						"score",
 						"score_"
-					],
-					[
-						"col",
-						"collision_asteroid_spaceship"
 					],
 					[
 						"bu",
@@ -397,6 +551,30 @@
 				[
 					[
 						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/Python/Python.sublime-build",
 							""
 						],
@@ -493,6 +671,19 @@
 			},
 			"file_history":
 			[
+				"/Users/anuvabh/Desktop/class/tp2_materials/images/lego_9x9.bmp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/TextureLoader.h",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Makefile",
+				"/Users/anuvabh/Desktop/class/tp2_materials/TextureLoader.cpp",
+				"/Users/anuvabh/code_test/python/scripts/hashtags",
+				"/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+				"/Users/anuvabh/code_test/python/scripts/test.py",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/tp4.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.h",
+				"/Users/anuvabh/Desktop/makefile.mac",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Matrix4x4.h",
 				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
 				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
 				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
@@ -572,7 +763,7 @@
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -587,6 +778,34 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"print",
+					"tagI",
+					"HillaryBenghazi",
+					"0.0003",
+					"3",
+					"color",
+					"fragmentUV",
+					"mouse",
+					"+",
+					"fragmentUV",
+					"alpha * ",
+					"X",
+					"stripeImage",
+					"stripeImageWidth",
+					"text",
+					"v_position",
+					"GL_NEAREST",
+					"firstData",
+					"q1c",
+					"rotate",
+					"diffuse",
+					"private",
+					"Ligh",
+					"glUniform",
+					"specular",
+					"rota",
+					"light",
+					"reflec",
 					"d",
 					"line",
 					"time_en_min",
@@ -686,35 +905,7 @@
 					"ships",
 					"ship",
 					"[j]",
-					"float",
-					"i",
-					"draw",
-					"asteroids",
-					"ship",
-					"float",
-					"ship",
-					"float",
-					"i",
-					"bullets",
-					"Bullet",
-					"asteroids",
-					"300",
-					"400",
-					"bullets",
-					"posY",
-					"Bullet",
-					"width",
-					"get",
-					"frequency",
-					"Spaceship",
-					"shoot",
-					"X",
-					"asteroids",
-					"asteroid",
-					"asteroids",
-					"Asteroid",
-					"ships",
-					"boundary"
+					"float"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -740,7 +931,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 334.0
+				"height": 559.0
 			},
 			"output.find_results":
 			{
@@ -835,7 +1026,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 214.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -851,32 +1042,212 @@
 				"selected_items":
 				[
 					[
-						"vec",
-						"vec3"
+						"de",
+						"degree〔variable〕"
+					],
+					[
+						"en",
+						"encode('utf8"
 					],
 					[
 						"e",
-						"eye"
+						"encode('utf8"
 					],
 					[
-						"de",
-						"degrees"
+						"has",
+						"hashtags〔variable〕"
 					],
 					[
-						"r",
-						"rotate"
+						"so",
+						"sorted_list〔variable〕"
+					],
+					[
+						"fre",
+						"frequency_list〔variable〕"
+					],
+					[
+						"ta",
+						"tagI〔variable〕"
+					],
+					[
+						"fr",
+						"frequency_list〔variable〕"
+					],
+					[
+						"no",
+						"nodes〔function〕"
+					],
+					[
+						"add",
+						"add_edge〔function〕"
+					],
+					[
+						"ad",
+						"add_node〔function〕"
+					],
+					[
+						"a",
+						"add_node〔function〕"
+					],
+					[
+						"hashtag",
+						"hashtag_list"
+					],
+					[
+						"bl",
+						"block_size"
+					],
+					[
+						"al",
+						"alpha"
+					],
+					[
+						"mos",
+						"mouseY"
+					],
+					[
+						"mous",
+						"mouseX"
+					],
+					[
+						"se",
+						"seeds"
+					],
+					[
+						"va",
+						"valid_move"
+					],
+					[
+						"pr",
+						"print_board"
+					],
+					[
+						"us",
+						"user_move"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"com",
+						"computer_play"
+					],
+					[
+						"c",
+						"computer_play"
 					],
 					[
 						"re",
-						"return_type〔variable〕"
+						"return"
+					],
+					[
+						"colu",
+						"colummn_to_play_max"
+					],
+					[
+						"compu",
+						"computer_play"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"glB",
+						"glBindBuffer"
+					],
+					[
+						"uv",
+						"uvbuffer"
+					],
+					[
+						"g_n",
+						"g_NumIndices"
+					],
+					[
+						"mu",
+						"mulVector"
+					],
+					[
+						"lig",
+						"light_rotate"
+					],
+					[
+						"ca",
+						"cartoon_modeID"
+					],
+					[
+						"car",
+						"cartoon_mode"
+					],
+					[
+						"spe",
+						"spec_index"
+					],
+					[
+						"sp",
+						"spec_index"
+					],
+					[
+						"specu",
+						"specularE"
+					],
+					[
+						"rot",
+						"rotate_light"
+					],
+					[
+						"trans",
+						"transpose"
+					],
+					[
+						"light",
+						"lightDirection"
+					],
+					[
+						"the",
+						"theta"
+					],
+					[
+						"tr",
+						"translationView"
+					],
+					[
+						"tra",
+						"transpose"
+					],
+					[
+						"view",
+						"view_distance"
+					],
+					[
+						"vi",
+						"view_distance"
+					],
+					[
+						"t",
+						"t_id"
+					],
+					[
+						"twe",
+						"tweet_id〔variable〕"
+					],
+					[
+						"in",
+						"in_file〔variable〕"
+					],
+					[
+						"m",
+						"mtime"
+					],
+					[
+						"f",
+						"fout"
 					],
 					[
 						"cl",
 						"close"
-					],
-					[
-						"pr",
-						"pprint〔function〕"
 					],
 					[
 						"Get",
@@ -911,10 +1282,6 @@
 						"freq_file〔variable〕"
 					],
 					[
-						"f",
-						"freq_file"
-					],
-					[
 						"l",
 						"loads〔function〕"
 					],
@@ -935,20 +1302,8 @@
 						"twitter〔module〕"
 					],
 					[
-						"m",
-						"max_id"
-					],
-					[
 						"get",
 						"get('text"
-					],
-					[
-						"c",
-						"created_at"
-					],
-					[
-						"twe",
-						"tweet〔variable〕"
 					],
 					[
 						"w",
@@ -979,20 +1334,12 @@
 						"nTBox"
 					],
 					[
-						"tra",
-						"trackBox"
-					],
-					[
 						"ge",
 						"get"
 					],
 					[
 						"sele",
 						"selectObject"
-					],
-					[
-						"fr",
-						"frameCopy"
 					],
 					[
 						"face",
@@ -1031,10 +1378,6 @@
 						"ppoly2"
 					],
 					[
-						"t",
-						"to_json"
-					],
-					[
 						"d",
 						"display_player_data"
 					],
@@ -1047,14 +1390,6 @@
 						"number_of_nodes  (function)"
 					],
 					[
-						"add",
-						"add_edge  (function)"
-					],
-					[
-						"ad",
-						"add_node  (function)"
-					],
-					[
 						"na",
 						"name"
 					],
@@ -1065,10 +1400,6 @@
 					[
 						"sh",
 						"ships"
-					],
-					[
-						"sp",
-						"speedY_"
 					],
 					[
 						"spee",
@@ -1085,10 +1416,6 @@
 					[
 						"score",
 						"score_"
-					],
-					[
-						"col",
-						"collision_asteroid_spaceship"
 					],
 					[
 						"bu",
@@ -1223,23 +1550,40 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/Transform.cpp",
+					"file": "/Users/anuvabh/code_test/python/data/frequency.txt",
 					"settings":
 					{
-						"buffer_size": 1645,
+						"buffer_size": 102022,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/main.cpp",
+					"file": "/Users/anuvabh/code_test/python/data/pdata",
 					"settings":
 					{
-						"buffer_size": 8518,
+						"buffer_size": 69,
+						"line_ending": "Unix",
+						"name": "+"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/data/degree.txt",
+					"settings":
+					{
+						"buffer_size": 101912,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/data/pdata_deg",
+					"settings":
+					{
+						"buffer_size": 58,
 						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "Packages/Makefile/Make.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -1365,2090 +1709,20 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/anuvabh/Desktop/graphics/hw1-osx-10.9",
-				"/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/shaders"
+				"/Users/anuvabh/code_test/python/data"
 			],
 			"file_history":
 			[
-				"/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/Transform.h",
-				"/Users/anuvabh/code_test/python/scripts/met.java",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
-				"/Users/anuvabh/code_test/python/test.py",
-				"/Users/anuvabh/code_test/python/tweetparse.py",
-				"/Users/anuvabh/code_test/python/lookup.py",
-				"/Users/anuvabh/code_test/python/tweet_crawl.py",
-				"/Users/anuvabh/code_test/opencv/CMakeLists.txt",
-				"/Users/anuvabh/code_test/opencv/camshift.cpp",
-				"/Users/anuvabh/code_test/opencv/facedetect.cpp",
-				"/Users/anuvabh/code_test/python/tweets/peak1340-1420.txt",
-				"/Users/anuvabh/code_test/python/tweets/peak0440-0510.txt",
-				"/Users/anuvabh/code_test/python/keys/vabh.txt",
-				"/Users/anuvabh/code_test/python/simplerparser.py",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111140.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111624.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111818.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112112.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112218.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112343.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112859.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-113138.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-185033.txt",
-				"/Users/anuvabh/Desktop/peak1.txt",
-				"/Users/anuvabh/code_test/python/tweets/peak1.txt",
-				"/Users/anuvabh/code_test/python/tweets/freq.txt",
-				"/Users/anuvabh/code_test/python/tweets/max",
-				"/Users/anuvabh/code_test/python/tweets/freq",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102929.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104309.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104216.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102652.txt",
-				"/Users/anuvabh/code_test/JChirp/credentials.txt",
-				"/Users/anuvabh/code_test/openGL/main.cpp",
-				"/Users/anuvabh/code_test/openGL/OpenGL-tutorial_v0014_21/tutorial01_first_window/tutorial01.cpp",
-				"/Users/anuvabh/code_test/openGL/make",
-				"/Users/anuvabh/Desktop/untitled folder/pat2.json",
-				"/Users/anuvabh/Desktop/untitled folder/pat1.json",
-				"/Users/anuvabh/code_test/python/tweets/20150314-223643.txt",
-				"/Users/anuvabh/code_test/python/tweets/res.txt",
-				"/Users/anuvabh/code_test/python/tweets/out2.txt",
-				"/Users/anuvabh/code_test/python/tweets/out.txt",
-				"/Users/anuvabh/code_test/python/tweets/20150314-152729.txt",
-				"/Users/anuvabh/code_test/python/tweets/20150314-152431.txt",
-				"/Users/anuvabh/code_test/Tweet-Classifier-Interface/tweetStream.py",
-				"/Users/anuvabh/code_test/python/keys/nastya.txt",
-				"/Users/anuvabh/code_test/python/piday.json",
-				"/Users/anuvabh/code_test/TwitterSpam/tweetStream.py",
-				"/Users/anuvabh/code_test/python/new.json",
-				"/Users/anuvabh/code_test/python/r.txt",
-				"/Users/anuvabh/Desktop/resume.txt",
-				"/Users/anuvabh/code_test/cpp/test5.cpp",
-				"/Users/anuvabh/code_test/python/results.json",
-				"/Users/anuvabh/code_test/python/tweetSearch1.txt",
-				"/Users/anuvabh/code_test/python/tweetSearch.txt",
-				"/Users/anuvabh/code_test/python/iphone_tweets.json",
-				"/Users/anuvabh/code_test/python/tweetReader.html",
-				"/Users/anuvabh/code_test/opencv/test1.cpp",
-				"/Users/anuvabh/code_test/python/main.rb",
-				"/Users/anuvabh/code_test/losfootballers/public/js/ajax.js",
-				"/Users/anuvabh/code_test/python/tweets.json",
-				"/Users/anuvabh/code_test/python/jquery.min.js",
-				"/Users/anuvabh/code_test/python/tweet.txt",
-				"/Users/anuvabh/code_test/opencv/CMakeCache.txt",
-				"/Users/anuvabh/code_test/opencv/makeCamshift.txt",
-				"/Users/anuvabh/.bash_profile1",
-				"/Users/anuvabh/Desktop/eduroam.mobileconfig",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.c",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoDynamic.c",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.h",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoStatic.c",
-				"/Users/anuvabh/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"x",
-					"time_en_min",
-					"start",
-					"date",
-					"id",
-					"16:50",
-					"reamining",
-					"since_id",
-					"576736050304933888",
-					"576716455561023488",
-					"tweet_id",
-					"max_id",
-					"image",
-					"i",
-					"cvMea",
-					"cams",
-					"cvMea",
-					"cvM",
-					"Universit",
-					"Mat",
-					"cams",
-					"CamShift",
-					"mean",
-					"camsh",
-					"return",
-					"break",
-					"event",
-					"selection",
-					"BACKPRO",
-					"image",
-					"print",
-					"int",
-					"json",
-					"append",
-					"year",
-					"position",
-					"Position",
-					"position",
-					"skill",
-					"Skill",
-					"skill",
-					"img",
-					"=\"\">",
-					"option",
-					"foot",
-					"Foot",
-					"foot",
-					"while",
-					"for",
-					"G",
-					"g",
-					"G",
-					"g",
-					"G",
-					"f",
-					"label",
-					"printf",
-					"Grid",
-					"float",
-					"score",
-					"i",
-					"collide",
-					"a",
-					"t",
-					"asteroids",
-					"bullets",
-					"j",
-					"type",
-					"height",
-					"width",
-					"0.3f",
-					"ship",
-					"ships",
-					"collision",
-					"shipY",
-					"asteroidY",
-					"shipW",
-					"asteroidX",
-					"1",
-					"300.f",
-					"400.f",
-					"300",
-					"400.f",
-					"i",
-					"1.",
-					"float",
-					"(*grid).",
-					"float",
-					"ships",
-					"asteroids",
-					"mark_cell",
-					"asteroids",
-					"grid",
-					"ships",
-					"eship",
-					"ships",
-					"ship",
-					"[j]",
-					"float",
-					"i",
-					"draw",
-					"asteroids",
-					"ship",
-					"float",
-					"ship",
-					"float",
-					"i",
-					"bullets",
-					"Bullet",
-					"asteroids",
-					"300",
-					"400",
-					"bullets",
-					"posY",
-					"Bullet",
-					"width",
-					"get",
-					"frequency",
-					"Spaceship",
-					"shoot",
-					"X",
-					"asteroids",
-					"asteroid",
-					"asteroids",
-					"Asteroid",
-					"ships",
-					"boundary",
-					"ships"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/anuvabh/Desktop/graphics/hw1-osx-10.9"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/Transform.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1645,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1187,
-										1187
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/C++/C++.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 184.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/anuvabh/Desktop/graphics/hw1-osx-10.9/main.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8518,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1297,
-										1297
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 476.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0 57 0 1217 777 0 0 1280 777 ",
-			"project": "",
-			"replace":
-			{
-				"height": 40.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"public/js/ajax.js"
-					],
-					[
-						"make",
-						"makefile"
-					],
-					[
-						".h",
-						"src/Grid.h"
-					],
-					[
-						"game",
-						"src/MyGameEngine.cpp"
-					],
-					[
-						"con",
-						"src/MyControlEngine.cpp"
-					],
-					[
-						"graph",
-						"include/GraphicEngine.h"
-					],
-					[
-						"engine",
-						"include/Engine.h"
-					],
-					[
-						"ma",
-						"src/main.cpp"
-					],
-					[
-						"sh",
-						"src/Spaceship.h"
-					],
-					[
-						"gr",
-						"src/Grid.h"
-					],
-					[
-						"bu",
-						"src/Bullet.cpp"
-					],
-					[
-						"mai",
-						"src/main.cpp"
-					],
-					[
-						"spa",
-						"src/Spaceship.cpp"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 89,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"t",
-						"t_id"
-					],
-					[
-						"re",
-						"retweeted_status"
-					],
-					[
-						"twe",
-						"tweet_id〔variable〕"
-					],
-					[
-						"in",
-						"in_file〔variable〕"
-					],
-					[
-						"so",
-						"sorted_x〔variable〕"
-					],
-					[
-						"m",
-						"mtime"
-					],
-					[
-						"f",
-						"fout"
-					],
-					[
-						"cl",
-						"close"
-					],
-					[
-						"pr",
-						"pprint〔function〕"
-					],
-					[
-						"Get",
-						"GetRateLimitStatus"
-					],
-					[
-						"i",
-						"id_s"
-					],
-					[
-						"json",
-						"json_file"
-					],
-					[
-						"time",
-						"time_start_hour〔variable〕"
-					],
-					[
-						"tim",
-						"time_start_hour〔variable〕"
-					],
-					[
-						"res",
-						"result_type"
-					],
-					[
-						"max",
-						"max_id"
-					],
-					[
-						"freq",
-						"freq_file〔variable〕"
-					],
-					[
-						"l",
-						"loads〔function〕"
-					],
-					[
-						"rea",
-						"readline〔function〕"
-					],
-					[
-						"js",
-						"json_file〔variable〕"
-					],
-					[
-						"red",
-						"readline〔function〕"
-					],
-					[
-						"tw",
-						"twitter〔module〕"
-					],
-					[
-						"get",
-						"get('text"
-					],
-					[
-						"c",
-						"created_at"
-					],
-					[
-						"w",
-						"write"
-					],
-					[
-						"K",
-						"KeyboardInterrupt〔class〕"
-					],
-					[
-						"GetS",
-						"GetStatus〔function〕"
-					],
-					[
-						"s",
-						"screen_name"
-					],
-					[
-						"ma",
-						"max_id〔variable〕"
-					],
-					[
-						"ti",
-						"timestr〔variable〕"
-					],
-					[
-						"n",
-						"nTBox"
-					],
-					[
-						"tra",
-						"trackBox"
-					],
-					[
-						"ge",
-						"get"
-					],
-					[
-						"sele",
-						"selectObject"
-					],
-					[
-						"fr",
-						"frameCopy"
-					],
-					[
-						"face",
-						"faces_global"
-					],
-					[
-						"fu",
-						"function"
-					],
-					[
-						"tweet",
-						"tweet_id"
-					],
-					[
-						"con",
-						"console"
-					],
-					[
-						"parse",
-						"parseJSON〔function〕"
-					],
-					[
-						"st",
-						"streamSample〔variable〕"
-					],
-					[
-						"de",
-						"dec_bin"
-					],
-					[
-						"b",
-						"b"
-					],
-					[
-						"pri",
-						"printDebug"
-					],
-					[
-						"p",
-						"ppoly2"
-					],
-					[
-						"d",
-						"display_player_data"
-					],
-					[
-						"pla",
-						"player_birth_day"
-					],
-					[
-						"num",
-						"number_of_nodes  (function)"
-					],
-					[
-						"add",
-						"add_edge  (function)"
-					],
-					[
-						"ad",
-						"add_node  (function)"
-					],
-					[
-						"na",
-						"name"
-					],
-					[
-						"G",
-						"Grid"
-					],
-					[
-						"sh",
-						"ships"
-					],
-					[
-						"sp",
-						"speedY_"
-					],
-					[
-						"spee",
-						"speedY"
-					],
-					[
-						"set",
-						"set_score"
-					],
-					[
-						"Gr",
-						"GraphicPrimitives"
-					],
-					[
-						"score",
-						"score_"
-					],
-					[
-						"col",
-						"collision_asteroid_spaceship"
-					],
-					[
-						"bu",
-						"bulletD"
-					],
-					[
-						"bul",
-						"bulletD"
-					],
-					[
-						"As",
-						"Asteroid"
-					],
-					[
-						"bull",
-						"bulletD"
-					],
-					[
-						"as",
-						"asteroids"
-					],
-					[
-						"M",
-						"MyControlEngine"
-					],
-					[
-						"h",
-						"height_grid"
-					],
-					[
-						"shi",
-						"shipH"
-					],
-					[
-						"ship",
-						"shipW"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"grid",
-						"grid_asteroids"
-					],
-					[
-						"row",
-						"rows"
-					],
-					[
-						"dr",
-						"draw"
-					],
-					[
-						"j",
-						"j.i	java.io."
-					],
-					[
-						"Aster",
-						"asteroids"
-					],
-					[
-						"pos",
-						"posY"
-					],
-					[
-						"nu",
-						"num_asteroids"
-					],
-					[
-						"S",
-						"Spaceship"
-					],
-					[
-						"fi",
-						"fire_frequency"
-					],
-					[
-						"fire_",
-						"fire_wait"
-					],
-					[
-						"bulle",
-						"bullets"
-					],
-					[
-						"po",
-						"posY_"
-					],
-					[
-						"ps",
-						"posX_"
-					],
-					[
-						"bou",
-						"boundary_right"
-					],
-					[
-						"boun",
-						"boundary_bottom"
-					],
-					[
-						"bound",
-						"boundary_top"
-					],
-					[
-						"grd",
-						"grid_map"
-					],
-					[
-						"ro",
-						"rows"
-					],
-					[
-						"rw",
-						"row_distance"
-					],
-					[
-						"co",
-						"col_distance"
-					],
-					[
-						"inc",
-						"include"
-					],
-					[
-						"cel",
-						"cell_distance_"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/anuvabh/code_test/python/tweets/peaks/peak0440-0510.txt",
-					"settings":
-					{
-						"buffer_size": 67249,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"cta",
-						"CTags: Rebuild Tags"
-					],
-					[
-						"sublimelinter",
-						"SublimeLinter: Next Error"
-					],
-					[
-						"sublimelint",
-						"SublimeLinter: Enable Debug Mode"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 521.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"exit();",
-					"exit()",
-					"ps",
-					"killall ruby;",
-					"killall ruby",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/anuvabh/code_test/python/tweets",
-				"/Users/anuvabh/code_test/python/tweets/peaks"
-			],
-			"file_history":
-			[
-				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
-				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
-				"/Users/anuvabh/code_test/python/scripts/lookup.py",
-				"/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
-				"/Users/anuvabh/code_test/python/tweets/out.txt",
-				"/Users/anuvabh/code_test/python/scripts/todo.txt",
-				"/Users/anuvabh/code_test/python/scripts/met.java",
-				"/Users/anuvabh/code_test/python/test.py",
-				"/Users/anuvabh/code_test/python/tweetparse.py",
-				"/Users/anuvabh/code_test/python/lookup.py",
-				"/Users/anuvabh/code_test/python/tweet_crawl.py",
-				"/Users/anuvabh/code_test/opencv/CMakeLists.txt",
-				"/Users/anuvabh/code_test/opencv/camshift.cpp",
-				"/Users/anuvabh/code_test/opencv/facedetect.cpp",
-				"/Users/anuvabh/code_test/python/tweets/peak1340-1420.txt",
-				"/Users/anuvabh/code_test/python/tweets/peak0440-0510.txt",
-				"/Users/anuvabh/code_test/python/keys/vabh.txt",
-				"/Users/anuvabh/code_test/python/simplerparser.py",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111140.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111624.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111818.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112112.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112218.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112343.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112859.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-113138.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-185033.txt",
-				"/Users/anuvabh/Desktop/peak1.txt",
-				"/Users/anuvabh/code_test/python/tweets/peak1.txt",
-				"/Users/anuvabh/code_test/python/tweets/freq.txt",
-				"/Users/anuvabh/code_test/python/tweets/max",
-				"/Users/anuvabh/code_test/python/tweets/freq",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102929.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104309.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104216.txt",
-				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102652.txt",
-				"/Users/anuvabh/code_test/JChirp/credentials.txt",
-				"/Users/anuvabh/code_test/openGL/main.cpp",
-				"/Users/anuvabh/code_test/openGL/OpenGL-tutorial_v0014_21/tutorial01_first_window/tutorial01.cpp",
-				"/Users/anuvabh/code_test/openGL/make",
-				"/Users/anuvabh/Desktop/untitled folder/pat2.json",
-				"/Users/anuvabh/Desktop/untitled folder/pat1.json",
-				"/Users/anuvabh/code_test/python/tweets/20150314-223643.txt",
-				"/Users/anuvabh/code_test/python/tweets/res.txt",
-				"/Users/anuvabh/code_test/python/tweets/out2.txt",
-				"/Users/anuvabh/code_test/python/tweets/20150314-152729.txt",
-				"/Users/anuvabh/code_test/python/tweets/20150314-152431.txt",
-				"/Users/anuvabh/code_test/Tweet-Classifier-Interface/tweetStream.py",
-				"/Users/anuvabh/code_test/python/keys/nastya.txt",
-				"/Users/anuvabh/code_test/python/piday.json",
-				"/Users/anuvabh/code_test/TwitterSpam/tweetStream.py",
-				"/Users/anuvabh/code_test/python/new.json",
-				"/Users/anuvabh/code_test/python/r.txt",
-				"/Users/anuvabh/Desktop/resume.txt",
-				"/Users/anuvabh/code_test/cpp/test5.cpp",
-				"/Users/anuvabh/code_test/python/results.json",
-				"/Users/anuvabh/code_test/python/tweetSearch1.txt",
-				"/Users/anuvabh/code_test/python/tweetSearch.txt",
-				"/Users/anuvabh/code_test/python/iphone_tweets.json",
-				"/Users/anuvabh/code_test/python/tweetReader.html",
-				"/Users/anuvabh/code_test/opencv/test1.cpp",
-				"/Users/anuvabh/code_test/python/main.rb",
-				"/Users/anuvabh/code_test/losfootballers/public/js/ajax.js",
-				"/Users/anuvabh/code_test/python/tweets.json",
-				"/Users/anuvabh/code_test/python/jquery.min.js",
-				"/Users/anuvabh/code_test/python/tweet.txt",
-				"/Users/anuvabh/code_test/opencv/CMakeCache.txt",
-				"/Users/anuvabh/code_test/opencv/makeCamshift.txt",
-				"/Users/anuvabh/.bash_profile1",
-				"/Users/anuvabh/Desktop/eduroam.mobileconfig",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.c",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoDynamic.c",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.h",
-				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoStatic.c",
-				"/Users/anuvabh/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"d",
-					"line",
-					"time_en_min",
-					"start",
-					"date",
-					"id",
-					"16:50",
-					"reamining",
-					"since_id",
-					"576736050304933888",
-					"576716455561023488",
-					"tweet_id",
-					"max_id",
-					"image",
-					"i",
-					"cvMea",
-					"cams",
-					"cvMea",
-					"cvM",
-					"Universit",
-					"Mat",
-					"cams",
-					"CamShift",
-					"mean",
-					"camsh",
-					"return",
-					"break",
-					"event",
-					"selection",
-					"BACKPRO",
-					"image",
-					"print",
-					"int",
-					"json",
-					"append",
-					"year",
-					"position",
-					"Position",
-					"position",
-					"skill",
-					"Skill",
-					"skill",
-					"img",
-					"=\"\">",
-					"option",
-					"foot",
-					"Foot",
-					"foot",
-					"while",
-					"for",
-					"G",
-					"g",
-					"G",
-					"g",
-					"G",
-					"f",
-					"label",
-					"printf",
-					"Grid",
-					"float",
-					"score",
-					"i",
-					"collide",
-					"a",
-					"t",
-					"asteroids",
-					"bullets",
-					"j",
-					"type",
-					"height",
-					"width",
-					"0.3f",
-					"ship",
-					"ships",
-					"collision",
-					"shipY",
-					"asteroidY",
-					"shipW",
-					"asteroidX",
-					"1",
-					"300.f",
-					"400.f",
-					"300",
-					"400.f",
-					"i",
-					"1.",
-					"float",
-					"(*grid).",
-					"float",
-					"ships",
-					"asteroids",
-					"mark_cell",
-					"asteroids",
-					"grid",
-					"ships",
-					"eship",
-					"ships",
-					"ship",
-					"[j]",
-					"float",
-					"i",
-					"draw",
-					"asteroids",
-					"ship",
-					"float",
-					"ship",
-					"float",
-					"i",
-					"bullets",
-					"Bullet",
-					"asteroids",
-					"300",
-					"400",
-					"bullets",
-					"posY",
-					"Bullet",
-					"width",
-					"get",
-					"frequency",
-					"Spaceship",
-					"shoot",
-					"X",
-					"asteroids",
-					"asteroid",
-					"asteroids",
-					"Asteroid",
-					"ships",
-					"boundary"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/anuvabh/code_test/python/tweets"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/anuvabh/code_test/python/tweets/peaks/peak0440-0510.txt",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 67249,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1060.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 334.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0 52 0 1228 777 0 0 1280 777 ",
-			"project": "",
-			"replace":
-			{
-				"height": 40.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"public/js/ajax.js"
-					],
-					[
-						"make",
-						"makefile"
-					],
-					[
-						".h",
-						"src/Grid.h"
-					],
-					[
-						"game",
-						"src/MyGameEngine.cpp"
-					],
-					[
-						"con",
-						"src/MyControlEngine.cpp"
-					],
-					[
-						"graph",
-						"include/GraphicEngine.h"
-					],
-					[
-						"engine",
-						"include/Engine.h"
-					],
-					[
-						"ma",
-						"src/main.cpp"
-					],
-					[
-						"sh",
-						"src/Spaceship.h"
-					],
-					[
-						"gr",
-						"src/Grid.h"
-					],
-					[
-						"bu",
-						"src/Bullet.cpp"
-					],
-					[
-						"mai",
-						"src/main.cpp"
-					],
-					[
-						"spa",
-						"src/Spaceship.cpp"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 95,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"t",
-						"t_id"
-					],
-					[
-						"re",
-						"retweeted_status"
-					],
-					[
-						"twe",
-						"tweet_id〔variable〕"
-					],
-					[
-						"in",
-						"in_file〔variable〕"
-					],
-					[
-						"so",
-						"sorted_x〔variable〕"
-					],
-					[
-						"m",
-						"mtime"
-					],
-					[
-						"f",
-						"fout"
-					],
-					[
-						"cl",
-						"close"
-					],
-					[
-						"pr",
-						"pprint〔function〕"
-					],
-					[
-						"Get",
-						"GetRateLimitStatus"
-					],
-					[
-						"i",
-						"id_s"
-					],
-					[
-						"json",
-						"json_file"
-					],
-					[
-						"time",
-						"time_start_hour〔variable〕"
-					],
-					[
-						"tim",
-						"time_start_hour〔variable〕"
-					],
-					[
-						"res",
-						"result_type"
-					],
-					[
-						"max",
-						"max_id"
-					],
-					[
-						"freq",
-						"freq_file〔variable〕"
-					],
-					[
-						"l",
-						"loads〔function〕"
-					],
-					[
-						"rea",
-						"readline〔function〕"
-					],
-					[
-						"js",
-						"json_file〔variable〕"
-					],
-					[
-						"red",
-						"readline〔function〕"
-					],
-					[
-						"tw",
-						"twitter〔module〕"
-					],
-					[
-						"get",
-						"get('text"
-					],
-					[
-						"c",
-						"created_at"
-					],
-					[
-						"w",
-						"write"
-					],
-					[
-						"K",
-						"KeyboardInterrupt〔class〕"
-					],
-					[
-						"GetS",
-						"GetStatus〔function〕"
-					],
-					[
-						"s",
-						"screen_name"
-					],
-					[
-						"ma",
-						"max_id〔variable〕"
-					],
-					[
-						"ti",
-						"timestr〔variable〕"
-					],
-					[
-						"n",
-						"nTBox"
-					],
-					[
-						"tra",
-						"trackBox"
-					],
-					[
-						"ge",
-						"get"
-					],
-					[
-						"sele",
-						"selectObject"
-					],
-					[
-						"fr",
-						"frameCopy"
-					],
-					[
-						"face",
-						"faces_global"
-					],
-					[
-						"fu",
-						"function"
-					],
-					[
-						"tweet",
-						"tweet_id"
-					],
-					[
-						"con",
-						"console"
-					],
-					[
-						"parse",
-						"parseJSON〔function〕"
-					],
-					[
-						"st",
-						"streamSample〔variable〕"
-					],
-					[
-						"de",
-						"dec_bin"
-					],
-					[
-						"b",
-						"b"
-					],
-					[
-						"pri",
-						"printDebug"
-					],
-					[
-						"p",
-						"ppoly2"
-					],
-					[
-						"d",
-						"display_player_data"
-					],
-					[
-						"pla",
-						"player_birth_day"
-					],
-					[
-						"num",
-						"number_of_nodes  (function)"
-					],
-					[
-						"add",
-						"add_edge  (function)"
-					],
-					[
-						"ad",
-						"add_node  (function)"
-					],
-					[
-						"na",
-						"name"
-					],
-					[
-						"G",
-						"Grid"
-					],
-					[
-						"sh",
-						"ships"
-					],
-					[
-						"sp",
-						"speedY_"
-					],
-					[
-						"spee",
-						"speedY"
-					],
-					[
-						"set",
-						"set_score"
-					],
-					[
-						"Gr",
-						"GraphicPrimitives"
-					],
-					[
-						"score",
-						"score_"
-					],
-					[
-						"col",
-						"collision_asteroid_spaceship"
-					],
-					[
-						"bu",
-						"bulletD"
-					],
-					[
-						"bul",
-						"bulletD"
-					],
-					[
-						"As",
-						"Asteroid"
-					],
-					[
-						"bull",
-						"bulletD"
-					],
-					[
-						"as",
-						"asteroids"
-					],
-					[
-						"M",
-						"MyControlEngine"
-					],
-					[
-						"h",
-						"height_grid"
-					],
-					[
-						"shi",
-						"shipH"
-					],
-					[
-						"ship",
-						"shipW"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"grid",
-						"grid_asteroids"
-					],
-					[
-						"row",
-						"rows"
-					],
-					[
-						"dr",
-						"draw"
-					],
-					[
-						"j",
-						"j.i	java.io."
-					],
-					[
-						"Aster",
-						"asteroids"
-					],
-					[
-						"pos",
-						"posY"
-					],
-					[
-						"nu",
-						"num_asteroids"
-					],
-					[
-						"S",
-						"Spaceship"
-					],
-					[
-						"fi",
-						"fire_frequency"
-					],
-					[
-						"fire_",
-						"fire_wait"
-					],
-					[
-						"bulle",
-						"bullets"
-					],
-					[
-						"po",
-						"posY_"
-					],
-					[
-						"ps",
-						"posX_"
-					],
-					[
-						"bou",
-						"boundary_right"
-					],
-					[
-						"boun",
-						"boundary_bottom"
-					],
-					[
-						"bound",
-						"boundary_top"
-					],
-					[
-						"grd",
-						"grid_map"
-					],
-					[
-						"ro",
-						"rows"
-					],
-					[
-						"rw",
-						"row_distance"
-					],
-					[
-						"co",
-						"col_distance"
-					],
-					[
-						"inc",
-						"include"
-					],
-					[
-						"cel",
-						"cell_distance_"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/tweetsbytime.py",
-					"settings":
-					{
-						"buffer_size": 786,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
-					"settings":
-					{
-						"buffer_size": 279,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/getRetweets.py",
-					"settings":
-					{
-						"buffer_size": 562,
-						"line_ending": "Unix",
-						"name": "tweet_id = 576781374696255488"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/freqDate.py",
-					"settings":
-					{
-						"buffer_size": 406,
-						"line_ending": "Unix",
-						"name": "filename = '../tweets/freq.txt';"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/freqCounter.py",
-					"settings":
-					{
-						"buffer_size": 504,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/tweetodgod.txt",
-					"settings":
-					{
-						"buffer_size": 70325,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/tweets/out.txt",
-					"settings":
-					{
-						"buffer_size": 166887,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/anuvabh/code_test/python/scripts/freqSec.txt",
-					"settings":
-					{
-						"buffer_size": 12152,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"cta",
-						"CTags: Rebuild Tags"
-					],
-					[
-						"sublimelinter",
-						"SublimeLinter: Next Error"
-					],
-					[
-						"sublimelint",
-						"SublimeLinter: Enable Debug Mode"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 521.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"exit();",
-					"exit()",
-					"ps",
-					"killall ruby;",
-					"killall ruby",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/anuvabh/code_test/python/scripts"
-			],
-			"file_history":
-			[
+				"/Users/anuvabh/code_test/python/scripts/hashtags",
+				"/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+				"/Users/anuvabh/code_test/python/scripts/test.py",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/tp4.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.h",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Makefile",
+				"/Users/anuvabh/Desktop/makefile.mac",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Matrix4x4.h",
 				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
 				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
 				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
@@ -3543,6 +1817,34 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"print",
+					"tagI",
+					"HillaryBenghazi",
+					"0.0003",
+					"3",
+					"color",
+					"fragmentUV",
+					"mouse",
+					"+",
+					"fragmentUV",
+					"alpha * ",
+					"X",
+					"stripeImage",
+					"stripeImageWidth",
+					"text",
+					"v_position",
+					"GL_NEAREST",
+					"firstData",
+					"q1c",
+					"rotate",
+					"diffuse",
+					"private",
+					"Ligh",
+					"glUniform",
+					"specular",
+					"rota",
+					"light",
+					"reflec",
 					"d",
 					"line",
 					"time_en_min",
@@ -3642,35 +1944,7 @@
 					"ships",
 					"ship",
 					"[j]",
-					"float",
-					"i",
-					"draw",
-					"asteroids",
-					"ship",
-					"float",
-					"ship",
-					"float",
-					"i",
-					"bullets",
-					"Bullet",
-					"asteroids",
-					"300",
-					"400",
-					"bullets",
-					"posY",
-					"Bullet",
-					"width",
-					"get",
-					"frequency",
-					"Spaceship",
-					"shoot",
-					"X",
-					"asteroids",
-					"asteroid",
-					"asteroids",
-					"Asteroid",
-					"ships",
-					"boundary"
+					"float"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3688,457 +1962,100 @@
 			"folders":
 			[
 				{
-					"path": "/Users/anuvabh/code_test/python/scripts"
+					"path": "/Users/anuvabh/code_test/python/data"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/anuvabh/code_test/python/scripts/tweetsbytime.py",
+							"file": "/Users/anuvabh/code_test/python/data/frequency.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 786,
+								"buffer_size": 102022,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										363,
-										363
+										252,
+										252
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 279,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										245,
-										245
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/Python/Python.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 98926.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/anuvabh/code_test/python/scripts/getRetweets.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 562,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										156,
-										156
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"auto_name": "tweet_id = 576781374696255488",
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/anuvabh/code_test/python/scripts/freqDate.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 406,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										189,
-										189
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"auto_name": "filename = '../tweets/freq.txt';",
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/anuvabh/code_test/python/scripts/freqCounter.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 504,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										62,
-										62
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
 							"type": "text"
 						}
 					]
@@ -4148,107 +2065,114 @@
 					"sheets":
 					[
 						{
-							"buffer": 5,
-							"file": "/Users/anuvabh/code_test/python/scripts/tweetodgod.txt",
+							"buffer": 1,
+							"file": "/Users/anuvabh/code_test/python/data/pdata",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 70325,
+								"buffer_size": 69,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										43,
+										43
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_name": "+",
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 17320.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
-							"buffer": 6,
-							"file": "/Users/anuvabh/code_test/python/tweets/out.txt",
+							"buffer": 2,
+							"file": "/Users/anuvabh/code_test/python/data/degree.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 166887,
+								"buffer_size": 101912,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										59,
-										59
+										64,
+										64
 									]
 								],
 								"settings":
@@ -4256,61 +2180,61 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -4318,86 +2242,93 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 3,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
-							"buffer": 7,
-							"file": "/Users/anuvabh/code_test/python/scripts/freqSec.txt",
+							"buffer": 3,
+							"file": "/Users/anuvabh/code_test/python/data/pdata_deg",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12152,
+								"buffer_size": 58,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										53,
-										53
+										48,
+										48
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_name": "",
 									"bh_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -4405,7 +2336,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -4434,12 +2365,26 @@
 						0,
 						2,
 						1
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					],
+					[
+						3,
+						0,
+						4,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.718974663729,
+					0.289247304582,
+					0.494872251629,
+					0.822246363412,
 					1.0
 				],
 				"rows":
@@ -4451,7 +2396,1153 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 334.0
+				"height": 559.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 52 0 1228 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"public/js/ajax.js"
+					],
+					[
+						"make",
+						"makefile"
+					],
+					[
+						".h",
+						"src/Grid.h"
+					],
+					[
+						"game",
+						"src/MyGameEngine.cpp"
+					],
+					[
+						"con",
+						"src/MyControlEngine.cpp"
+					],
+					[
+						"graph",
+						"include/GraphicEngine.h"
+					],
+					[
+						"engine",
+						"include/Engine.h"
+					],
+					[
+						"ma",
+						"src/main.cpp"
+					],
+					[
+						"sh",
+						"src/Spaceship.h"
+					],
+					[
+						"gr",
+						"src/Grid.h"
+					],
+					[
+						"bu",
+						"src/Bullet.cpp"
+					],
+					[
+						"mai",
+						"src/main.cpp"
+					],
+					[
+						"spa",
+						"src/Spaceship.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 214.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 156,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"de",
+						"degree〔variable〕"
+					],
+					[
+						"en",
+						"encode('utf8"
+					],
+					[
+						"e",
+						"encode('utf8"
+					],
+					[
+						"has",
+						"hashtags〔variable〕"
+					],
+					[
+						"so",
+						"sorted_list〔variable〕"
+					],
+					[
+						"fre",
+						"frequency_list〔variable〕"
+					],
+					[
+						"ta",
+						"tagI〔variable〕"
+					],
+					[
+						"fr",
+						"frequency_list〔variable〕"
+					],
+					[
+						"no",
+						"nodes〔function〕"
+					],
+					[
+						"add",
+						"add_edge〔function〕"
+					],
+					[
+						"ad",
+						"add_node〔function〕"
+					],
+					[
+						"a",
+						"add_node〔function〕"
+					],
+					[
+						"hashtag",
+						"hashtag_list"
+					],
+					[
+						"bl",
+						"block_size"
+					],
+					[
+						"al",
+						"alpha"
+					],
+					[
+						"mos",
+						"mouseY"
+					],
+					[
+						"mous",
+						"mouseX"
+					],
+					[
+						"se",
+						"seeds"
+					],
+					[
+						"va",
+						"valid_move"
+					],
+					[
+						"pr",
+						"print_board"
+					],
+					[
+						"us",
+						"user_move"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"com",
+						"computer_play"
+					],
+					[
+						"c",
+						"computer_play"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"colu",
+						"colummn_to_play_max"
+					],
+					[
+						"compu",
+						"computer_play"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"glB",
+						"glBindBuffer"
+					],
+					[
+						"uv",
+						"uvbuffer"
+					],
+					[
+						"g_n",
+						"g_NumIndices"
+					],
+					[
+						"mu",
+						"mulVector"
+					],
+					[
+						"lig",
+						"light_rotate"
+					],
+					[
+						"ca",
+						"cartoon_modeID"
+					],
+					[
+						"car",
+						"cartoon_mode"
+					],
+					[
+						"spe",
+						"spec_index"
+					],
+					[
+						"sp",
+						"spec_index"
+					],
+					[
+						"specu",
+						"specularE"
+					],
+					[
+						"rot",
+						"rotate_light"
+					],
+					[
+						"trans",
+						"transpose"
+					],
+					[
+						"light",
+						"lightDirection"
+					],
+					[
+						"the",
+						"theta"
+					],
+					[
+						"tr",
+						"translationView"
+					],
+					[
+						"tra",
+						"transpose"
+					],
+					[
+						"view",
+						"view_distance"
+					],
+					[
+						"vi",
+						"view_distance"
+					],
+					[
+						"t",
+						"t_id"
+					],
+					[
+						"twe",
+						"tweet_id〔variable〕"
+					],
+					[
+						"in",
+						"in_file〔variable〕"
+					],
+					[
+						"m",
+						"mtime"
+					],
+					[
+						"f",
+						"fout"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"Get",
+						"GetRateLimitStatus"
+					],
+					[
+						"i",
+						"id_s"
+					],
+					[
+						"json",
+						"json_file"
+					],
+					[
+						"time",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"tim",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"res",
+						"result_type"
+					],
+					[
+						"max",
+						"max_id"
+					],
+					[
+						"freq",
+						"freq_file〔variable〕"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"rea",
+						"readline〔function〕"
+					],
+					[
+						"js",
+						"json_file〔variable〕"
+					],
+					[
+						"red",
+						"readline〔function〕"
+					],
+					[
+						"tw",
+						"twitter〔module〕"
+					],
+					[
+						"get",
+						"get('text"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"K",
+						"KeyboardInterrupt〔class〕"
+					],
+					[
+						"GetS",
+						"GetStatus〔function〕"
+					],
+					[
+						"s",
+						"screen_name"
+					],
+					[
+						"ma",
+						"max_id〔variable〕"
+					],
+					[
+						"ti",
+						"timestr〔variable〕"
+					],
+					[
+						"n",
+						"nTBox"
+					],
+					[
+						"ge",
+						"get"
+					],
+					[
+						"sele",
+						"selectObject"
+					],
+					[
+						"face",
+						"faces_global"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"tweet",
+						"tweet_id"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"parse",
+						"parseJSON〔function〕"
+					],
+					[
+						"st",
+						"streamSample〔variable〕"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"pri",
+						"printDebug"
+					],
+					[
+						"p",
+						"ppoly2"
+					],
+					[
+						"d",
+						"display_player_data"
+					],
+					[
+						"pla",
+						"player_birth_day"
+					],
+					[
+						"num",
+						"number_of_nodes  (function)"
+					],
+					[
+						"na",
+						"name"
+					],
+					[
+						"G",
+						"Grid"
+					],
+					[
+						"sh",
+						"ships"
+					],
+					[
+						"spee",
+						"speedY"
+					],
+					[
+						"set",
+						"set_score"
+					],
+					[
+						"Gr",
+						"GraphicPrimitives"
+					],
+					[
+						"score",
+						"score_"
+					],
+					[
+						"bu",
+						"bulletD"
+					],
+					[
+						"bul",
+						"bulletD"
+					],
+					[
+						"As",
+						"Asteroid"
+					],
+					[
+						"bull",
+						"bulletD"
+					],
+					[
+						"as",
+						"asteroids"
+					],
+					[
+						"M",
+						"MyControlEngine"
+					],
+					[
+						"h",
+						"height_grid"
+					],
+					[
+						"shi",
+						"shipH"
+					],
+					[
+						"ship",
+						"shipW"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"grid",
+						"grid_asteroids"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"dr",
+						"draw"
+					],
+					[
+						"j",
+						"j.i	java.io."
+					],
+					[
+						"Aster",
+						"asteroids"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"nu",
+						"num_asteroids"
+					],
+					[
+						"S",
+						"Spaceship"
+					],
+					[
+						"fi",
+						"fire_frequency"
+					],
+					[
+						"fire_",
+						"fire_wait"
+					],
+					[
+						"bulle",
+						"bullets"
+					],
+					[
+						"po",
+						"posY_"
+					],
+					[
+						"ps",
+						"posX_"
+					],
+					[
+						"bou",
+						"boundary_right"
+					],
+					[
+						"boun",
+						"boundary_bottom"
+					],
+					[
+						"bound",
+						"boundary_top"
+					],
+					[
+						"grd",
+						"grid_map"
+					],
+					[
+						"ro",
+						"rows"
+					],
+					[
+						"rw",
+						"row_distance"
+					],
+					[
+						"co",
+						"col_distance"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"cel",
+						"cell_distance_"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cta",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"sublimelint",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"exit();",
+					"exit()",
+					"ps",
+					"killall ruby;",
+					"killall ruby",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/anuvabh/Desktop/class/tp5_lightfield",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/images"
+			],
+			"file_history":
+			[
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/TextureLoader.cpp",
+				"/Users/anuvabh/code_test/python/scripts/hashtags",
+				"/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+				"/Users/anuvabh/code_test/python/scripts/test.py",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/tp4.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.h",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Makefile",
+				"/Users/anuvabh/Desktop/makefile.mac",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Matrix4x4.h",
+				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
+				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
+				"/Users/anuvabh/code_test/python/scripts/lookup.py",
+				"/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
+				"/Users/anuvabh/code_test/python/tweets/out.txt",
+				"/Users/anuvabh/code_test/python/scripts/todo.txt",
+				"/Users/anuvabh/code_test/python/scripts/met.java",
+				"/Users/anuvabh/code_test/python/test.py",
+				"/Users/anuvabh/code_test/python/tweetparse.py",
+				"/Users/anuvabh/code_test/python/lookup.py",
+				"/Users/anuvabh/code_test/python/tweet_crawl.py",
+				"/Users/anuvabh/code_test/opencv/CMakeLists.txt",
+				"/Users/anuvabh/code_test/opencv/camshift.cpp",
+				"/Users/anuvabh/code_test/opencv/facedetect.cpp",
+				"/Users/anuvabh/code_test/python/tweets/peak1340-1420.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak0440-0510.txt",
+				"/Users/anuvabh/code_test/python/keys/vabh.txt",
+				"/Users/anuvabh/code_test/python/simplerparser.py",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111140.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111624.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111818.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112112.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112218.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112343.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112859.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-113138.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-185033.txt",
+				"/Users/anuvabh/Desktop/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/freq.txt",
+				"/Users/anuvabh/code_test/python/tweets/max",
+				"/Users/anuvabh/code_test/python/tweets/freq",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102929.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104309.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104216.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102652.txt",
+				"/Users/anuvabh/code_test/JChirp/credentials.txt",
+				"/Users/anuvabh/code_test/openGL/main.cpp",
+				"/Users/anuvabh/code_test/openGL/OpenGL-tutorial_v0014_21/tutorial01_first_window/tutorial01.cpp",
+				"/Users/anuvabh/code_test/openGL/make",
+				"/Users/anuvabh/Desktop/untitled folder/pat2.json",
+				"/Users/anuvabh/Desktop/untitled folder/pat1.json",
+				"/Users/anuvabh/code_test/python/tweets/20150314-223643.txt",
+				"/Users/anuvabh/code_test/python/tweets/res.txt",
+				"/Users/anuvabh/code_test/python/tweets/out2.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152729.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152431.txt",
+				"/Users/anuvabh/code_test/Tweet-Classifier-Interface/tweetStream.py",
+				"/Users/anuvabh/code_test/python/keys/nastya.txt",
+				"/Users/anuvabh/code_test/python/piday.json",
+				"/Users/anuvabh/code_test/TwitterSpam/tweetStream.py",
+				"/Users/anuvabh/code_test/python/new.json",
+				"/Users/anuvabh/code_test/python/r.txt",
+				"/Users/anuvabh/Desktop/resume.txt",
+				"/Users/anuvabh/code_test/cpp/test5.cpp",
+				"/Users/anuvabh/code_test/python/results.json",
+				"/Users/anuvabh/code_test/python/tweetSearch1.txt",
+				"/Users/anuvabh/code_test/python/tweetSearch.txt",
+				"/Users/anuvabh/code_test/python/iphone_tweets.json",
+				"/Users/anuvabh/code_test/python/tweetReader.html",
+				"/Users/anuvabh/code_test/opencv/test1.cpp",
+				"/Users/anuvabh/code_test/python/main.rb",
+				"/Users/anuvabh/code_test/losfootballers/public/js/ajax.js",
+				"/Users/anuvabh/code_test/python/tweets.json",
+				"/Users/anuvabh/code_test/python/jquery.min.js",
+				"/Users/anuvabh/code_test/python/tweet.txt",
+				"/Users/anuvabh/code_test/opencv/CMakeCache.txt",
+				"/Users/anuvabh/code_test/opencv/makeCamshift.txt",
+				"/Users/anuvabh/.bash_profile1",
+				"/Users/anuvabh/Desktop/eduroam.mobileconfig",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoDynamic.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.h",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoStatic.c",
+				"/Users/anuvabh/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"tagI",
+					"HillaryBenghazi",
+					"0.0003",
+					"3",
+					"color",
+					"fragmentUV",
+					"mouse",
+					"+",
+					"fragmentUV",
+					"alpha * ",
+					"X",
+					"stripeImage",
+					"stripeImageWidth",
+					"text",
+					"v_position",
+					"GL_NEAREST",
+					"firstData",
+					"q1c",
+					"rotate",
+					"diffuse",
+					"private",
+					"Ligh",
+					"glUniform",
+					"specular",
+					"rota",
+					"light",
+					"reflec",
+					"d",
+					"line",
+					"time_en_min",
+					"start",
+					"date",
+					"id",
+					"16:50",
+					"reamining",
+					"since_id",
+					"576736050304933888",
+					"576716455561023488",
+					"tweet_id",
+					"max_id",
+					"image",
+					"i",
+					"cvMea",
+					"cams",
+					"cvMea",
+					"cvM",
+					"Universit",
+					"Mat",
+					"cams",
+					"CamShift",
+					"mean",
+					"camsh",
+					"return",
+					"break",
+					"event",
+					"selection",
+					"BACKPRO",
+					"image",
+					"print",
+					"int",
+					"json",
+					"append",
+					"year",
+					"position",
+					"Position",
+					"position",
+					"skill",
+					"Skill",
+					"skill",
+					"img",
+					"=\"\">",
+					"option",
+					"foot",
+					"Foot",
+					"foot",
+					"while",
+					"for",
+					"G",
+					"g",
+					"G",
+					"g",
+					"G",
+					"f",
+					"label",
+					"printf",
+					"Grid",
+					"float",
+					"score",
+					"i",
+					"collide",
+					"a",
+					"t",
+					"asteroids",
+					"bullets",
+					"j",
+					"type",
+					"height",
+					"width",
+					"0.3f",
+					"ship",
+					"ships",
+					"collision",
+					"shipY",
+					"asteroidY",
+					"shipW",
+					"asteroidX",
+					"1",
+					"300.f",
+					"400.f",
+					"300",
+					"400.f",
+					"i",
+					"1.",
+					"float",
+					"(*grid).",
+					"float",
+					"ships",
+					"asteroids",
+					"mark_cell",
+					"asteroids",
+					"grid",
+					"ships",
+					"eship",
+					"ships",
+					"ship",
+					"[j]",
+					"float"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/anuvabh/Desktop/class/tp5_lightfield"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										540,
+										540
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 6,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 142.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 559.0
 			},
 			"output.find_results":
 			{
@@ -4552,12 +3643,3168 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 214.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 83,
+			"window_id": 158,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"load",
+						"loadTexture"
+					],
+					[
+						"de",
+						"degree〔variable〕"
+					],
+					[
+						"en",
+						"encode('utf8"
+					],
+					[
+						"e",
+						"encode('utf8"
+					],
+					[
+						"has",
+						"hashtags〔variable〕"
+					],
+					[
+						"so",
+						"sorted_list〔variable〕"
+					],
+					[
+						"fre",
+						"frequency_list〔variable〕"
+					],
+					[
+						"ta",
+						"tagI〔variable〕"
+					],
+					[
+						"fr",
+						"frequency_list〔variable〕"
+					],
+					[
+						"no",
+						"nodes〔function〕"
+					],
+					[
+						"add",
+						"add_edge〔function〕"
+					],
+					[
+						"ad",
+						"add_node〔function〕"
+					],
+					[
+						"a",
+						"add_node〔function〕"
+					],
+					[
+						"hashtag",
+						"hashtag_list"
+					],
+					[
+						"bl",
+						"block_size"
+					],
+					[
+						"al",
+						"alpha"
+					],
+					[
+						"mos",
+						"mouseY"
+					],
+					[
+						"mous",
+						"mouseX"
+					],
+					[
+						"se",
+						"seeds"
+					],
+					[
+						"va",
+						"valid_move"
+					],
+					[
+						"pr",
+						"print_board"
+					],
+					[
+						"us",
+						"user_move"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"com",
+						"computer_play"
+					],
+					[
+						"c",
+						"computer_play"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"colu",
+						"colummn_to_play_max"
+					],
+					[
+						"compu",
+						"computer_play"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"glB",
+						"glBindBuffer"
+					],
+					[
+						"uv",
+						"uvbuffer"
+					],
+					[
+						"g_n",
+						"g_NumIndices"
+					],
+					[
+						"mu",
+						"mulVector"
+					],
+					[
+						"lig",
+						"light_rotate"
+					],
+					[
+						"ca",
+						"cartoon_modeID"
+					],
+					[
+						"car",
+						"cartoon_mode"
+					],
+					[
+						"spe",
+						"spec_index"
+					],
+					[
+						"sp",
+						"spec_index"
+					],
+					[
+						"specu",
+						"specularE"
+					],
+					[
+						"rot",
+						"rotate_light"
+					],
+					[
+						"trans",
+						"transpose"
+					],
+					[
+						"light",
+						"lightDirection"
+					],
+					[
+						"the",
+						"theta"
+					],
+					[
+						"tr",
+						"translationView"
+					],
+					[
+						"tra",
+						"transpose"
+					],
+					[
+						"view",
+						"view_distance"
+					],
+					[
+						"vi",
+						"view_distance"
+					],
+					[
+						"t",
+						"t_id"
+					],
+					[
+						"twe",
+						"tweet_id〔variable〕"
+					],
+					[
+						"in",
+						"in_file〔variable〕"
+					],
+					[
+						"m",
+						"mtime"
+					],
+					[
+						"f",
+						"fout"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"Get",
+						"GetRateLimitStatus"
+					],
+					[
+						"i",
+						"id_s"
+					],
+					[
+						"json",
+						"json_file"
+					],
+					[
+						"time",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"tim",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"res",
+						"result_type"
+					],
+					[
+						"max",
+						"max_id"
+					],
+					[
+						"freq",
+						"freq_file〔variable〕"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"rea",
+						"readline〔function〕"
+					],
+					[
+						"js",
+						"json_file〔variable〕"
+					],
+					[
+						"red",
+						"readline〔function〕"
+					],
+					[
+						"tw",
+						"twitter〔module〕"
+					],
+					[
+						"get",
+						"get('text"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"K",
+						"KeyboardInterrupt〔class〕"
+					],
+					[
+						"GetS",
+						"GetStatus〔function〕"
+					],
+					[
+						"s",
+						"screen_name"
+					],
+					[
+						"ma",
+						"max_id〔variable〕"
+					],
+					[
+						"ti",
+						"timestr〔variable〕"
+					],
+					[
+						"n",
+						"nTBox"
+					],
+					[
+						"ge",
+						"get"
+					],
+					[
+						"sele",
+						"selectObject"
+					],
+					[
+						"face",
+						"faces_global"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"tweet",
+						"tweet_id"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"parse",
+						"parseJSON〔function〕"
+					],
+					[
+						"st",
+						"streamSample〔variable〕"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"pri",
+						"printDebug"
+					],
+					[
+						"p",
+						"ppoly2"
+					],
+					[
+						"d",
+						"display_player_data"
+					],
+					[
+						"pla",
+						"player_birth_day"
+					],
+					[
+						"num",
+						"number_of_nodes  (function)"
+					],
+					[
+						"na",
+						"name"
+					],
+					[
+						"G",
+						"Grid"
+					],
+					[
+						"sh",
+						"ships"
+					],
+					[
+						"spee",
+						"speedY"
+					],
+					[
+						"set",
+						"set_score"
+					],
+					[
+						"Gr",
+						"GraphicPrimitives"
+					],
+					[
+						"score",
+						"score_"
+					],
+					[
+						"bu",
+						"bulletD"
+					],
+					[
+						"bul",
+						"bulletD"
+					],
+					[
+						"As",
+						"Asteroid"
+					],
+					[
+						"bull",
+						"bulletD"
+					],
+					[
+						"as",
+						"asteroids"
+					],
+					[
+						"M",
+						"MyControlEngine"
+					],
+					[
+						"h",
+						"height_grid"
+					],
+					[
+						"shi",
+						"shipH"
+					],
+					[
+						"ship",
+						"shipW"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"grid",
+						"grid_asteroids"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"dr",
+						"draw"
+					],
+					[
+						"j",
+						"j.i	java.io."
+					],
+					[
+						"Aster",
+						"asteroids"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"nu",
+						"num_asteroids"
+					],
+					[
+						"S",
+						"Spaceship"
+					],
+					[
+						"fi",
+						"fire_frequency"
+					],
+					[
+						"fire_",
+						"fire_wait"
+					],
+					[
+						"bulle",
+						"bullets"
+					],
+					[
+						"po",
+						"posY_"
+					],
+					[
+						"ps",
+						"posX_"
+					],
+					[
+						"bou",
+						"boundary_right"
+					],
+					[
+						"boun",
+						"boundary_bottom"
+					],
+					[
+						"bound",
+						"boundary_top"
+					],
+					[
+						"grd",
+						"grid_map"
+					],
+					[
+						"ro",
+						"rows"
+					],
+					[
+						"rw",
+						"row_distance"
+					],
+					[
+						"co",
+						"col_distance"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"cel",
+						"cell_distance_"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/anuvabh/Desktop/class/tp2_materials/tp2.cpp",
+					"settings":
+					{
+						"buffer_size": 18602,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/Desktop/class/tp2_materials/SimpleFragmentShader.fp",
+					"settings":
+					{
+						"buffer_size": 2459,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/Desktop/class/tp2_materials/SimpleVertexShader.vp",
+					"settings":
+					{
+						"buffer_size": 1508,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cta",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"sublimelint",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"exit();",
+					"exit()",
+					"ps",
+					"killall ruby;",
+					"killall ruby",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/anuvabh/Desktop/class/tp2_materials"
+			],
+			"file_history":
+			[
+				"/Users/anuvabh/Desktop/class/tp2_materials/images/lego_9x9.bmp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/TextureLoader.h",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Makefile",
+				"/Users/anuvabh/Desktop/class/tp2_materials/TextureLoader.cpp",
+				"/Users/anuvabh/code_test/python/scripts/hashtags",
+				"/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+				"/Users/anuvabh/code_test/python/scripts/test.py",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/tp4.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.h",
+				"/Users/anuvabh/Desktop/makefile.mac",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Matrix4x4.h",
+				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
+				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
+				"/Users/anuvabh/code_test/python/scripts/lookup.py",
+				"/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
+				"/Users/anuvabh/code_test/python/tweets/out.txt",
+				"/Users/anuvabh/code_test/python/scripts/todo.txt",
+				"/Users/anuvabh/code_test/python/scripts/met.java",
+				"/Users/anuvabh/code_test/python/test.py",
+				"/Users/anuvabh/code_test/python/tweetparse.py",
+				"/Users/anuvabh/code_test/python/lookup.py",
+				"/Users/anuvabh/code_test/python/tweet_crawl.py",
+				"/Users/anuvabh/code_test/opencv/CMakeLists.txt",
+				"/Users/anuvabh/code_test/opencv/camshift.cpp",
+				"/Users/anuvabh/code_test/opencv/facedetect.cpp",
+				"/Users/anuvabh/code_test/python/tweets/peak1340-1420.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak0440-0510.txt",
+				"/Users/anuvabh/code_test/python/keys/vabh.txt",
+				"/Users/anuvabh/code_test/python/simplerparser.py",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111140.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111624.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111818.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112112.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112218.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112343.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112859.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-113138.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-185033.txt",
+				"/Users/anuvabh/Desktop/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/freq.txt",
+				"/Users/anuvabh/code_test/python/tweets/max",
+				"/Users/anuvabh/code_test/python/tweets/freq",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102929.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104309.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104216.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102652.txt",
+				"/Users/anuvabh/code_test/JChirp/credentials.txt",
+				"/Users/anuvabh/code_test/openGL/main.cpp",
+				"/Users/anuvabh/code_test/openGL/OpenGL-tutorial_v0014_21/tutorial01_first_window/tutorial01.cpp",
+				"/Users/anuvabh/code_test/openGL/make",
+				"/Users/anuvabh/Desktop/untitled folder/pat2.json",
+				"/Users/anuvabh/Desktop/untitled folder/pat1.json",
+				"/Users/anuvabh/code_test/python/tweets/20150314-223643.txt",
+				"/Users/anuvabh/code_test/python/tweets/res.txt",
+				"/Users/anuvabh/code_test/python/tweets/out2.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152729.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152431.txt",
+				"/Users/anuvabh/code_test/Tweet-Classifier-Interface/tweetStream.py",
+				"/Users/anuvabh/code_test/python/keys/nastya.txt",
+				"/Users/anuvabh/code_test/python/piday.json",
+				"/Users/anuvabh/code_test/TwitterSpam/tweetStream.py",
+				"/Users/anuvabh/code_test/python/new.json",
+				"/Users/anuvabh/code_test/python/r.txt",
+				"/Users/anuvabh/Desktop/resume.txt",
+				"/Users/anuvabh/code_test/cpp/test5.cpp",
+				"/Users/anuvabh/code_test/python/results.json",
+				"/Users/anuvabh/code_test/python/tweetSearch1.txt",
+				"/Users/anuvabh/code_test/python/tweetSearch.txt",
+				"/Users/anuvabh/code_test/python/iphone_tweets.json",
+				"/Users/anuvabh/code_test/python/tweetReader.html",
+				"/Users/anuvabh/code_test/opencv/test1.cpp",
+				"/Users/anuvabh/code_test/python/main.rb",
+				"/Users/anuvabh/code_test/losfootballers/public/js/ajax.js",
+				"/Users/anuvabh/code_test/python/tweets.json",
+				"/Users/anuvabh/code_test/python/jquery.min.js",
+				"/Users/anuvabh/code_test/python/tweet.txt",
+				"/Users/anuvabh/code_test/opencv/CMakeCache.txt",
+				"/Users/anuvabh/code_test/opencv/makeCamshift.txt",
+				"/Users/anuvabh/.bash_profile1",
+				"/Users/anuvabh/Desktop/eduroam.mobileconfig",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoDynamic.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.h",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoStatic.c",
+				"/Users/anuvabh/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"tagI",
+					"HillaryBenghazi",
+					"0.0003",
+					"3",
+					"color",
+					"fragmentUV",
+					"mouse",
+					"+",
+					"fragmentUV",
+					"alpha * ",
+					"X",
+					"stripeImage",
+					"stripeImageWidth",
+					"text",
+					"v_position",
+					"GL_NEAREST",
+					"firstData",
+					"q1c",
+					"rotate",
+					"diffuse",
+					"private",
+					"Ligh",
+					"glUniform",
+					"specular",
+					"rota",
+					"light",
+					"reflec",
+					"d",
+					"line",
+					"time_en_min",
+					"start",
+					"date",
+					"id",
+					"16:50",
+					"reamining",
+					"since_id",
+					"576736050304933888",
+					"576716455561023488",
+					"tweet_id",
+					"max_id",
+					"image",
+					"i",
+					"cvMea",
+					"cams",
+					"cvMea",
+					"cvM",
+					"Universit",
+					"Mat",
+					"cams",
+					"CamShift",
+					"mean",
+					"camsh",
+					"return",
+					"break",
+					"event",
+					"selection",
+					"BACKPRO",
+					"image",
+					"print",
+					"int",
+					"json",
+					"append",
+					"year",
+					"position",
+					"Position",
+					"position",
+					"skill",
+					"Skill",
+					"skill",
+					"img",
+					"=\"\">",
+					"option",
+					"foot",
+					"Foot",
+					"foot",
+					"while",
+					"for",
+					"G",
+					"g",
+					"G",
+					"g",
+					"G",
+					"f",
+					"label",
+					"printf",
+					"Grid",
+					"float",
+					"score",
+					"i",
+					"collide",
+					"a",
+					"t",
+					"asteroids",
+					"bullets",
+					"j",
+					"type",
+					"height",
+					"width",
+					"0.3f",
+					"ship",
+					"ships",
+					"collision",
+					"shipY",
+					"asteroidY",
+					"shipW",
+					"asteroidX",
+					"1",
+					"300.f",
+					"400.f",
+					"300",
+					"400.f",
+					"i",
+					"1.",
+					"float",
+					"(*grid).",
+					"float",
+					"ships",
+					"asteroids",
+					"mark_cell",
+					"asteroids",
+					"grid",
+					"ships",
+					"eship",
+					"ships",
+					"ship",
+					"[j]",
+					"float"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/anuvabh/Desktop/class/tp2_materials"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/anuvabh/Desktop/class/tp2_materials/tp2.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18602,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16720,
+										16727
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 6903.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/anuvabh/Desktop/class/tp2_materials/SimpleFragmentShader.fp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										293,
+										303
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 6,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 394.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/anuvabh/Desktop/class/tp2_materials/SimpleVertexShader.vp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1508,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 559.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 52 0 1228 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"public/js/ajax.js"
+					],
+					[
+						"make",
+						"makefile"
+					],
+					[
+						".h",
+						"src/Grid.h"
+					],
+					[
+						"game",
+						"src/MyGameEngine.cpp"
+					],
+					[
+						"con",
+						"src/MyControlEngine.cpp"
+					],
+					[
+						"graph",
+						"include/GraphicEngine.h"
+					],
+					[
+						"engine",
+						"include/Engine.h"
+					],
+					[
+						"ma",
+						"src/main.cpp"
+					],
+					[
+						"sh",
+						"src/Spaceship.h"
+					],
+					[
+						"gr",
+						"src/Grid.h"
+					],
+					[
+						"bu",
+						"src/Bullet.cpp"
+					],
+					[
+						"mai",
+						"src/main.cpp"
+					],
+					[
+						"spa",
+						"src/Spaceship.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 214.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 157,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"de",
+						"degree〔variable〕"
+					],
+					[
+						"en",
+						"encode('utf8"
+					],
+					[
+						"e",
+						"encode('utf8"
+					],
+					[
+						"has",
+						"hashtags〔variable〕"
+					],
+					[
+						"so",
+						"sorted_list〔variable〕"
+					],
+					[
+						"fre",
+						"frequency_list〔variable〕"
+					],
+					[
+						"ta",
+						"tagI〔variable〕"
+					],
+					[
+						"fr",
+						"frequency_list〔variable〕"
+					],
+					[
+						"no",
+						"nodes〔function〕"
+					],
+					[
+						"add",
+						"add_edge〔function〕"
+					],
+					[
+						"ad",
+						"add_node〔function〕"
+					],
+					[
+						"a",
+						"add_node〔function〕"
+					],
+					[
+						"hashtag",
+						"hashtag_list"
+					],
+					[
+						"bl",
+						"block_size"
+					],
+					[
+						"al",
+						"alpha"
+					],
+					[
+						"mos",
+						"mouseY"
+					],
+					[
+						"mous",
+						"mouseX"
+					],
+					[
+						"se",
+						"seeds"
+					],
+					[
+						"va",
+						"valid_move"
+					],
+					[
+						"pr",
+						"print_board"
+					],
+					[
+						"us",
+						"user_move"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"com",
+						"computer_play"
+					],
+					[
+						"c",
+						"computer_play"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"colu",
+						"colummn_to_play_max"
+					],
+					[
+						"compu",
+						"computer_play"
+					],
+					[
+						"GL",
+						"GLfloat"
+					],
+					[
+						"glB",
+						"glBindBuffer"
+					],
+					[
+						"uv",
+						"uvbuffer"
+					],
+					[
+						"g_n",
+						"g_NumIndices"
+					],
+					[
+						"mu",
+						"mulVector"
+					],
+					[
+						"lig",
+						"light_rotate"
+					],
+					[
+						"ca",
+						"cartoon_modeID"
+					],
+					[
+						"car",
+						"cartoon_mode"
+					],
+					[
+						"spe",
+						"spec_index"
+					],
+					[
+						"sp",
+						"spec_index"
+					],
+					[
+						"specu",
+						"specularE"
+					],
+					[
+						"rot",
+						"rotate_light"
+					],
+					[
+						"trans",
+						"transpose"
+					],
+					[
+						"light",
+						"lightDirection"
+					],
+					[
+						"the",
+						"theta"
+					],
+					[
+						"tr",
+						"translationView"
+					],
+					[
+						"tra",
+						"transpose"
+					],
+					[
+						"view",
+						"view_distance"
+					],
+					[
+						"vi",
+						"view_distance"
+					],
+					[
+						"t",
+						"t_id"
+					],
+					[
+						"twe",
+						"tweet_id〔variable〕"
+					],
+					[
+						"in",
+						"in_file〔variable〕"
+					],
+					[
+						"m",
+						"mtime"
+					],
+					[
+						"f",
+						"fout"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"Get",
+						"GetRateLimitStatus"
+					],
+					[
+						"i",
+						"id_s"
+					],
+					[
+						"json",
+						"json_file"
+					],
+					[
+						"time",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"tim",
+						"time_start_hour〔variable〕"
+					],
+					[
+						"res",
+						"result_type"
+					],
+					[
+						"max",
+						"max_id"
+					],
+					[
+						"freq",
+						"freq_file〔variable〕"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"rea",
+						"readline〔function〕"
+					],
+					[
+						"js",
+						"json_file〔variable〕"
+					],
+					[
+						"red",
+						"readline〔function〕"
+					],
+					[
+						"tw",
+						"twitter〔module〕"
+					],
+					[
+						"get",
+						"get('text"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"K",
+						"KeyboardInterrupt〔class〕"
+					],
+					[
+						"GetS",
+						"GetStatus〔function〕"
+					],
+					[
+						"s",
+						"screen_name"
+					],
+					[
+						"ma",
+						"max_id〔variable〕"
+					],
+					[
+						"ti",
+						"timestr〔variable〕"
+					],
+					[
+						"n",
+						"nTBox"
+					],
+					[
+						"ge",
+						"get"
+					],
+					[
+						"sele",
+						"selectObject"
+					],
+					[
+						"face",
+						"faces_global"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"tweet",
+						"tweet_id"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"parse",
+						"parseJSON〔function〕"
+					],
+					[
+						"st",
+						"streamSample〔variable〕"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"pri",
+						"printDebug"
+					],
+					[
+						"p",
+						"ppoly2"
+					],
+					[
+						"d",
+						"display_player_data"
+					],
+					[
+						"pla",
+						"player_birth_day"
+					],
+					[
+						"num",
+						"number_of_nodes  (function)"
+					],
+					[
+						"na",
+						"name"
+					],
+					[
+						"G",
+						"Grid"
+					],
+					[
+						"sh",
+						"ships"
+					],
+					[
+						"spee",
+						"speedY"
+					],
+					[
+						"set",
+						"set_score"
+					],
+					[
+						"Gr",
+						"GraphicPrimitives"
+					],
+					[
+						"score",
+						"score_"
+					],
+					[
+						"bu",
+						"bulletD"
+					],
+					[
+						"bul",
+						"bulletD"
+					],
+					[
+						"As",
+						"Asteroid"
+					],
+					[
+						"bull",
+						"bulletD"
+					],
+					[
+						"as",
+						"asteroids"
+					],
+					[
+						"M",
+						"MyControlEngine"
+					],
+					[
+						"h",
+						"height_grid"
+					],
+					[
+						"shi",
+						"shipH"
+					],
+					[
+						"ship",
+						"shipW"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"grid",
+						"grid_asteroids"
+					],
+					[
+						"row",
+						"rows"
+					],
+					[
+						"dr",
+						"draw"
+					],
+					[
+						"j",
+						"j.i	java.io."
+					],
+					[
+						"Aster",
+						"asteroids"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"nu",
+						"num_asteroids"
+					],
+					[
+						"S",
+						"Spaceship"
+					],
+					[
+						"fi",
+						"fire_frequency"
+					],
+					[
+						"fire_",
+						"fire_wait"
+					],
+					[
+						"bulle",
+						"bullets"
+					],
+					[
+						"po",
+						"posY_"
+					],
+					[
+						"ps",
+						"posX_"
+					],
+					[
+						"bou",
+						"boundary_right"
+					],
+					[
+						"boun",
+						"boundary_bottom"
+					],
+					[
+						"bound",
+						"boundary_top"
+					],
+					[
+						"grd",
+						"grid_map"
+					],
+					[
+						"ro",
+						"rows"
+					],
+					[
+						"rw",
+						"row_distance"
+					],
+					[
+						"co",
+						"col_distance"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"cel",
+						"cell_distance_"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/createHashtagGraph.py",
+					"settings":
+					{
+						"buffer_size": 2204,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/wordoccurences.txt",
+					"settings":
+					{
+						"buffer_size": 1721,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/tweet_ids_16clinton_hashtags.txt",
+					"settings":
+					{
+						"buffer_size": 24298477,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/freqCounter.py",
+					"settings":
+					{
+						"buffer_size": 500,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+					"settings":
+					{
+						"buffer_size": 846579,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
+					"settings":
+					{
+						"buffer_size": 506,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/hashtest.txt",
+					"settings":
+					{
+						"buffer_size": 3239,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/anuvabh/code_test/python/scripts/worddegree.txt",
+					"settings":
+					{
+						"buffer_size": 1199,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "inst",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"cta",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"sublimelint",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"exit();",
+					"exit()",
+					"ps",
+					"killall ruby;",
+					"killall ruby",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/anuvabh/code_test/python/scripts"
+			],
+			"file_history":
+			[
+				"/Users/anuvabh/code_test/python/scripts/hashtags",
+				"/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+				"/Users/anuvabh/code_test/python/scripts/test.py",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/SimpleFragmentShader.fp",
+				"/Users/anuvabh/Desktop/class/tp5_lightfield/tp4.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.cpp",
+				"/Users/anuvabh/Desktop/class/tp2_materials/glsl.h",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Makefile",
+				"/Users/anuvabh/Desktop/makefile.mac",
+				"/Users/anuvabh/Desktop/class/tp2_materials/Matrix4x4.h",
+				"/Users/anuvabh/code_test/python/scripts/supernatural.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112421.txt",
+				"/Users/anuvabh/code_test/python/scripts/funcgen.py",
+				"/Users/anuvabh/code_test/python/scripts/lookup.py",
+				"/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
+				"/Users/anuvabh/code_test/python/tweets/out.txt",
+				"/Users/anuvabh/code_test/python/scripts/todo.txt",
+				"/Users/anuvabh/code_test/python/scripts/met.java",
+				"/Users/anuvabh/code_test/python/test.py",
+				"/Users/anuvabh/code_test/python/tweetparse.py",
+				"/Users/anuvabh/code_test/python/lookup.py",
+				"/Users/anuvabh/code_test/python/tweet_crawl.py",
+				"/Users/anuvabh/code_test/opencv/CMakeLists.txt",
+				"/Users/anuvabh/code_test/opencv/camshift.cpp",
+				"/Users/anuvabh/code_test/opencv/facedetect.cpp",
+				"/Users/anuvabh/code_test/python/tweets/peak1340-1420.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak0440-0510.txt",
+				"/Users/anuvabh/code_test/python/keys/vabh.txt",
+				"/Users/anuvabh/code_test/python/simplerparser.py",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111140.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111624.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-111818.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112112.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112218.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112343.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-112859.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-113138.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-185033.txt",
+				"/Users/anuvabh/Desktop/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/peak1.txt",
+				"/Users/anuvabh/code_test/python/tweets/freq.txt",
+				"/Users/anuvabh/code_test/python/tweets/max",
+				"/Users/anuvabh/code_test/python/tweets/freq",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102929.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104309.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-104216.txt",
+				"/Users/anuvabh/code_test/python/tweets/#HappyPiDaysearch-20150321-102652.txt",
+				"/Users/anuvabh/code_test/JChirp/credentials.txt",
+				"/Users/anuvabh/code_test/openGL/main.cpp",
+				"/Users/anuvabh/code_test/openGL/OpenGL-tutorial_v0014_21/tutorial01_first_window/tutorial01.cpp",
+				"/Users/anuvabh/code_test/openGL/make",
+				"/Users/anuvabh/Desktop/untitled folder/pat2.json",
+				"/Users/anuvabh/Desktop/untitled folder/pat1.json",
+				"/Users/anuvabh/code_test/python/tweets/20150314-223643.txt",
+				"/Users/anuvabh/code_test/python/tweets/res.txt",
+				"/Users/anuvabh/code_test/python/tweets/out2.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152729.txt",
+				"/Users/anuvabh/code_test/python/tweets/20150314-152431.txt",
+				"/Users/anuvabh/code_test/Tweet-Classifier-Interface/tweetStream.py",
+				"/Users/anuvabh/code_test/python/keys/nastya.txt",
+				"/Users/anuvabh/code_test/python/piday.json",
+				"/Users/anuvabh/code_test/TwitterSpam/tweetStream.py",
+				"/Users/anuvabh/code_test/python/new.json",
+				"/Users/anuvabh/code_test/python/r.txt",
+				"/Users/anuvabh/Desktop/resume.txt",
+				"/Users/anuvabh/code_test/cpp/test5.cpp",
+				"/Users/anuvabh/code_test/python/results.json",
+				"/Users/anuvabh/code_test/python/tweetSearch1.txt",
+				"/Users/anuvabh/code_test/python/tweetSearch.txt",
+				"/Users/anuvabh/code_test/python/iphone_tweets.json",
+				"/Users/anuvabh/code_test/python/tweetReader.html",
+				"/Users/anuvabh/code_test/opencv/test1.cpp",
+				"/Users/anuvabh/code_test/python/main.rb",
+				"/Users/anuvabh/code_test/losfootballers/public/js/ajax.js",
+				"/Users/anuvabh/code_test/python/tweets.json",
+				"/Users/anuvabh/code_test/python/jquery.min.js",
+				"/Users/anuvabh/code_test/python/tweet.txt",
+				"/Users/anuvabh/code_test/opencv/CMakeCache.txt",
+				"/Users/anuvabh/code_test/opencv/makeCamshift.txt",
+				"/Users/anuvabh/.bash_profile1",
+				"/Users/anuvabh/Desktop/eduroam.mobileconfig",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoDynamic.c",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/static.h",
+				"/Users/anuvabh/Google Drive/M1/Semester 2/Advanced OS/Lab1/exoStatic.c",
+				"/Users/anuvabh/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"tagI",
+					"HillaryBenghazi",
+					"0.0003",
+					"3",
+					"color",
+					"fragmentUV",
+					"mouse",
+					"+",
+					"fragmentUV",
+					"alpha * ",
+					"X",
+					"stripeImage",
+					"stripeImageWidth",
+					"text",
+					"v_position",
+					"GL_NEAREST",
+					"firstData",
+					"q1c",
+					"rotate",
+					"diffuse",
+					"private",
+					"Ligh",
+					"glUniform",
+					"specular",
+					"rota",
+					"light",
+					"reflec",
+					"d",
+					"line",
+					"time_en_min",
+					"start",
+					"date",
+					"id",
+					"16:50",
+					"reamining",
+					"since_id",
+					"576736050304933888",
+					"576716455561023488",
+					"tweet_id",
+					"max_id",
+					"image",
+					"i",
+					"cvMea",
+					"cams",
+					"cvMea",
+					"cvM",
+					"Universit",
+					"Mat",
+					"cams",
+					"CamShift",
+					"mean",
+					"camsh",
+					"return",
+					"break",
+					"event",
+					"selection",
+					"BACKPRO",
+					"image",
+					"print",
+					"int",
+					"json",
+					"append",
+					"year",
+					"position",
+					"Position",
+					"position",
+					"skill",
+					"Skill",
+					"skill",
+					"img",
+					"=\"\">",
+					"option",
+					"foot",
+					"Foot",
+					"foot",
+					"while",
+					"for",
+					"G",
+					"g",
+					"G",
+					"g",
+					"G",
+					"f",
+					"label",
+					"printf",
+					"Grid",
+					"float",
+					"score",
+					"i",
+					"collide",
+					"a",
+					"t",
+					"asteroids",
+					"bullets",
+					"j",
+					"type",
+					"height",
+					"width",
+					"0.3f",
+					"ship",
+					"ships",
+					"collision",
+					"shipY",
+					"asteroidY",
+					"shipW",
+					"asteroidX",
+					"1",
+					"300.f",
+					"400.f",
+					"300",
+					"400.f",
+					"i",
+					"1.",
+					"float",
+					"(*grid).",
+					"float",
+					"ships",
+					"asteroids",
+					"mark_cell",
+					"asteroids",
+					"grid",
+					"ships",
+					"eship",
+					"ships",
+					"ship",
+					"[j]",
+					"float"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/anuvabh/code_test/python/scripts"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/anuvabh/code_test/python/scripts/createHashtagGraph.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2204,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/anuvabh/code_test/python/scripts/wordoccurences.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1721,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										504,
+										504
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/anuvabh/code_test/python/scripts/tweet_ids_16clinton_hashtags.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24298477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24293153,
+										24293164
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3313825.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/anuvabh/code_test/python/scripts/freqCounter.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 500,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										396,
+										323
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/anuvabh/code_test/python/scripts/taggraph.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 846579,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 197664.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/anuvabh/code_test/python/scripts/prettyprinter.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 506,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										506,
+										506
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/anuvabh/code_test/python/scripts/hashtest.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3239,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										116,
+										124
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/anuvabh/code_test/python/scripts/worddegree.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1199,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										749,
+										760
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 559.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 52 0 1228 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"public/js/ajax.js"
+					],
+					[
+						"make",
+						"makefile"
+					],
+					[
+						".h",
+						"src/Grid.h"
+					],
+					[
+						"game",
+						"src/MyGameEngine.cpp"
+					],
+					[
+						"con",
+						"src/MyControlEngine.cpp"
+					],
+					[
+						"graph",
+						"include/GraphicEngine.h"
+					],
+					[
+						"engine",
+						"include/Engine.h"
+					],
+					[
+						"ma",
+						"src/main.cpp"
+					],
+					[
+						"sh",
+						"src/Spaceship.h"
+					],
+					[
+						"gr",
+						"src/Grid.h"
+					],
+					[
+						"bu",
+						"src/Bullet.cpp"
+					],
+					[
+						"mai",
+						"src/main.cpp"
+					],
+					[
+						"spa",
+						"src/Spaceship.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 214.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 153,
 			"workspace_name": ""
 		}
 	],
